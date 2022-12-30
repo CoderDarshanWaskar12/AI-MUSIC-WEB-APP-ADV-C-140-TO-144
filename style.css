@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+ body { background: radial-gradient( circle,
+     rgb(255, 64, 0) 0%,
+     rgb(17, 0, 255) 100% ); 
+    } 
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Rubik Moonrocks', sans-serif;
+}
+.note{
+    color: black;
+    font-size: 15px;
+    font-family: 'Rubik Moonrocks', sans-serif;
+}
+.song_name{
+    font-size: 20px;
+    font-family: 'Rubik Moonrocks', sans-serif;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    font-family: 'Rubik Moonrocks', sans-serif;
+}
+
